@@ -41,6 +41,10 @@ public class FragmentHome extends Fragment implements View.OnClickListener {
     }
     private void openFragment(Fragment fragment){
         FragmentTransaction fragmentTransaction = getActivity().getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.setCustomAnimations(R.anim.animation_slide_right_enter,
+                R.anim.animation_slide_left_exit,
+                R.anim.animation_slide_left_enter,
+                R.anim.animation_slide_right_exit );
         fragmentTransaction.replace(R.id.container, fragment)
                 .addToBackStack(fragment.getClass().getName())
                 .commit();

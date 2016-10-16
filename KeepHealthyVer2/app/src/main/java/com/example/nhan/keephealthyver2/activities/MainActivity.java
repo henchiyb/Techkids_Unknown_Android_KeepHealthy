@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void openFragment(Fragment fragment){
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.setCustomAnimations(R.anim.animation_slide_right_enter,
+                R.anim.animation_slide_left_exit,
+                R.anim.animation_slide_left_enter,
+                R.anim.animation_slide_right_exit );
         fragmentTransaction.replace(R.id.container, fragment)
                 .addToBackStack(fragment.getClass().getName())
                 .commit();
