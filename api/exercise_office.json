@@ -1,0 +1,88 @@
+{
+    "office":[
+        {
+        "name": "Raise the roof",
+        "image" : "http://www.womenshealthmag.com/sites/womenshealthmag.com/files/images/0901-ufp-raise-roof.jpg",
+        "time"  : "20",
+        "info" : "While marching in place, push toward the ceiling with your palms up and thumbs almost touching your shoulders. Make it harder by holding water bottles.",
+        "image_gif" : "office_1"
+        },
+        {
+        "name": "Triceps kick",
+        "image" : "http://www.womenshealthmag.com/sites/womenshealthmag.com/files/images/1012-ham-curl-kick.jpg",
+        "time"  : "20",
+        "info" : "While marching in place, bend at the hips, about 45 degrees. Bend your elbows, then extend them behind you as if you are lifting weights.",
+        "image_gif" : "office_2"
+        },
+        {
+        "name": "The Hulk",
+        "image" : "https://stephanieharms.files.wordpress.com/2014/06/rear-lat-raise.jpg?w=620",
+        "time"  : "20",
+        "info" : "Keep marching and leaning. With your elbows bent and fists together in front, move your arms back like wings. Try to touch your shoulder blades together.",
+        "image_gif" : "office_3"
+        },
+        {
+        "name": "Hamstring curl",
+        "image" : "http://www.womenshealthmag.com/sites/womenshealthmag.com/files/images/1012-ham-curl-kick.jpg",
+        "time"  : "20",
+        "info" : "Bend arms at the elbow. Bring one foot up toward your rear end while straightening your arms so that your hands are down when your foot is up.",
+        "image_gif" : "office_4"
+        },
+        {
+        "name": "Knee lift",
+        "image" : "https://gethealthyu.com/wp-content/uploads/2014/08/Squat-and-Curl-with-Alternating-Knee-Lifts_Featured.jpg",
+        "time"  : "20",
+        "info" : "Just like hamstring curls, except you lift your knee up in front as your arms go down.",
+        "image_gif" : "office_5"
+        },
+        {
+        "name": "Hallelujah",
+        "image" : "https://s-media-cache-ak0.pinimg.com/564x/b8/83/f6/b883f6d65888ec4861f2f0d55410a7cb.jpg",
+        "time"  : "20",
+        "info" : "Sweep arms above your head and down again as you step side-to-side. Actually yelling ''Hallelujah!'' is optional.",
+        "image_gif" : "office_6"
+        },
+        {
+        "name": "Punching",
+        "image" : "http://66.media.tumblr.com/d2cb5d61a7228bdac0ce4237d6e9f977/tumblr_inline_mx3g2x9mFh1rdu2za.jpg",
+        "time"  : "20",
+        "info" : "While rocking foot to foot, punch with alternating arms. To reduce elbow stress, try not to fully straighten your arm.",
+        "image_gif" : "office_7"
+        },
+        {
+        "name": "Desk pushup",
+        "image" : "http://leducphysio.ca/wp-content/uploads/2016/03/wall-push-up.jpg",
+        "time"  : "20",
+        "info" : "Place hands on edge of desk, shoulder width apart, legs out behind you. Push off with as much force as you can.",
+        "image_gif" : "office_8"
+        },
+        {
+        "name": "Side lunge",
+        "image" : "https://s-media-cache-ak0.pinimg.com/originals/75/09/45/750945271bddeb799d8c6f4cdec26944.jpg",
+        "time"  : "20",
+        "info" : "Place hands on edge of desk, shoulder width apart, legs out behind you. Push off with as much force as you can.",
+        "image_gif" : "office_9"
+        },
+        {
+        "name": "Jump squats",
+        "image" : "http://www.360fitnessonline.com/wp-content/uploads/Double-Pulse-Jump-Squats-20-Reps-300x300.jpg",
+        "time"  : "20",
+        "info" : "Make sure you have space in front of you. Bend into a half-squat with your arms behind you, then jump and swing your arms up as if you're celebrating.",
+        "image_gif" : "office_10"
+        },
+        {
+        "name": "Chair dips",
+        "image" : "http://www.womenshealthmag.com/sites/womenshealthmag.com/files/images/0611_dip.jpg",
+        "time"  : "20",
+        "info" : "With your legs out in front of you, grab the edge of a chair (or desk) and lift yourself down and back up. At the end, you'll be conveniently back in your seat.",
+        "image_gif" : "office_11"
+        },
+        {
+        "name": "Walking",
+        "image" : "http://bestwalkingshoereviews.com/wp-content/uploads/2015/10/best-treadmill-for-walking-300x300.jpg",
+        "time"  : "20",
+        "info" : "Lap your block or a floor of your office. Try for a pace of 100 steps per minute, which is easy if you don't stop to play with tchotchkes on other people's desks.",
+        "image_gif" : "office_12"
+        }
+    ]
+}

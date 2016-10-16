@@ -1,0 +1,114 @@
+{
+    "breath":[
+    {
+        "name": "Deep Breath",
+        "id" : "1",
+        "color" : "#000000",
+        "image" : "http://www.blogbonniebee.com/wp-content/uploads/2015/12/Take-a-deep-breath-300x300.jpg",
+        "time"  : "5",
+        "youtube_video" : "https://www.youtube.com/watch?v=Va-EVCHrEqw",
+        "info" : "Breath in for 5 seconds, then keep breath for 5 seconds, finally reath out for 5 seconds",
+        "guide" :[
+            {
+                "label": "Breath in"
+            },
+            {
+                "label": "Keep breath"
+            },
+            {
+                "label": "Breath out"
+            }
+        ]
+    },
+    {
+        "name": "Sama Vritti",
+        "id" : "2",
+        "color" : "#009688",
+        "image" : "http://www.yoga-dhara.com/wp-content/uploads/2015/11/deep-breathing-300x300.jpg",
+        "time"  : "5",
+        "youtube_video" : "https://www.youtube.com/watch?v=JaT8X4ljYC0",
+        "info" : "Inhale for a count of four, then exhale for a count of four",
+        "guide" :[
+            {
+                "label": "Inhale for a count of four"
+            },
+            {
+                "label": "Exhale for a count of four"
+            }
+        ]
+    },
+    {
+        "name": "Breath By Belly",
+        "id" : "3",
+        "color" : "#16599b",
+        "image" : "http://www.findhomeremedy.com/wp-content/uploads/2013/06/Deep-Breathing.jpg",
+        "youtube_video" : "https://www.youtube.com/watch?v=sg9XYicHqKo",
+        "time"  : "3",
+        "info" : "Put one hand on the chest and the other on the belly, take a deep breath in through the nose",
+        "guide" :[
+            {
+                "label": "Breath in "
+            },
+            {
+                "label": "Keep breath"
+            },
+            {
+                "label": "Breath out"
+            }
+        ]
+    },
+    {
+        "name": "Kapalabhati",
+        "id" : "4",
+        "color" : "#16599b",
+        "image" : "https://www.srutiyogacenter.com/wp-content/uploads/2015/01/SOLSTICE-300x300.png",
+        "youtube_video" : "https://www.youtube.com/watch?v=_kdhsfDEuY8",
+        "time"  : "5",
+        "info" : "Take a long and slow breath in, followed by a quick and powerful exhale (all through the nose)",
+        "guide" :[
+            {
+                "label": "Breath in "
+            },
+            {
+                "label": "Breath out"
+            }
+        ]
+    },
+    {
+        "name": "Nadi Shodhana",
+        "id" : "5",
+        "color" : "#16599b",
+        "image" : "https://s-media-cache-ak0.pinimg.com/564x/37/9f/8a/379f8a06ad24df68154b8ea891564bf7.jpg",
+        "youtube_video" : "https://www.youtube.com/watch?v=vpDn4W2rF8w",
+        "time"  : "2",
+        "info" : "Hold the right thumb over the right nostril and inhale deeply through the left nostril. Then close off the left nostril with the ring finger, then exhale through the right nostril.",
+        "guide" :[
+            {
+                "label": "Breath in"
+            },
+            {
+                "label": "Breath out"
+            }
+        ]
+    },
+    {
+        "name": "Deep Breath And Dream",
+        "id" : "5",
+        "color" : "#16599b",
+        "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+        "youtube_video" : "https://www.youtube.com/watch?v=Va-EVCHrEqw",
+        "time"  : "6",
+        "info" : "Breathe deeply while focusing on pleasant, positive images to replace any negative thoughts.",
+        "guide" :[
+            {
+                "label": "Breath in "
+            },
+            {
+                "label": "Keep Breath"
+            },
+            {
+                "label": "Breath out"
+            }
+        ]
+    }]
+}

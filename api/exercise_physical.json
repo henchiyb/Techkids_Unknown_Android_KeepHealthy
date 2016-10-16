@@ -1,0 +1,218 @@
+{
+    "physical":[
+        {
+            "exercise": [
+                {
+                "name": "Jumping Jacks",
+                "id" : "1",
+                "color" : "#000000",
+                "image_gif" : "ex_1",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=yDSMdd8hiFg"
+                },
+                {
+                "name": "Abdominal Crunches",
+                "id" : "4",
+                "color" : "#000000",
+                "image_gif" : "ex_4",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=_M2Etme-tfE"
+                }],
+                "name":"Jumping crunches",
+                "image":"https://isolatorfitness.com/blog/wp-content/uploads/2016/08/jumplunge.jpg"
+        },
+        {
+            "exercise": [
+                {
+                "name": "Push-ups",
+                "id" : "3",
+                "color" : "#000000",
+                "image_gif" : "ex_3",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=Eh00_rniF8E"
+            },
+           {
+                "name": "Push-up And Rotation",
+                "id" : "11",
+                "color" : "#000000",
+                "image_gif" : "ex_11",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=iu3VptPuikY"
+            }
+            ],
+                "name":"Push-ups",
+                "image":"http://strongains.com/wp-content/uploads/2014/04/Copy-of-spiderman-pushups-300x300.jpg"
+        },
+         {
+            "exercise": [
+                {
+                "name": "Wall Sit",
+                "id" : "2",
+                "color" : "#000000",
+                "image_gif" : "ex_2",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=M5MKJ4T4e2k"
+                },
+                {
+                "name": "Squats",
+                "id" : "6",
+                "color" : "#000000",
+                "image_gif" : "ex_6",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=SU2UmCkiKC8"
+                }
+            ],
+                "name":"Squats",
+                "image":"http://www.self.com/wp-content/uploads/2014/12/POPSUGAR-Goblet-Squats.jpg"
+         },
+         {
+            "exercise": [
+                {
+                "name": "Step-up Onto Chair",
+                "id" : "5",
+                "color" : "#000000",
+                "image_gif" : "ex_5",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=ay-MtjfYtwo"
+                },
+                {
+                "name": "Triceps Dips On Chair",
+                "id" : "7",
+                "color" : "#000000",
+                "image_gif" : "ex_7",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=tKjcgfu44sI"
+            }
+            ],
+                "name":"Exercises with chair",
+                "image":"https://2.bp.blogspot.com/-sDP84p4ZUTg/VooAFWGWoTI/AAAAAAAANCs/MQqKzWB1Z8M/s350walk-step-up-400x400.jpg"
+         },
+         {
+            "exercise": [
+                {
+                "name": "High Stepping",
+                "id" : "9",
+                "color" : "#000000",
+                "image_gif" : "ex_9",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=kMFv3Alg-Gc"
+                },
+                {
+                "name": "Lunges",
+                "id" : "10",
+                "color" : "#000000",
+                "image_gif" : "ex_10",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=Z2n58m2i4jg"
+            }
+            ],
+                "name":"Practice thigh",
+                "image":"http://www.yogadivinity.com/wp-content/uploads/2015/05/triangle-pose1-300x300.jpg"
+         },
+         {
+            "exercise": [
+                {
+                "name": "Plank",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "ex_8",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                },
+    
+                {
+                "name": "Right Side Plank",
+                "id" : "12",
+                "color" : "#000000",
+                "image_gif" : "ex_12",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=NXr4Fw8q60o"
+                },
+                {
+                "name": "Left Side Plank",
+                "id" : "13",
+                "color" : "#000000",
+                "image_gif" : "ex_13",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=NXr4Fw8q60o"
+                }
+            ],
+                "name":"Plank",
+                "image":"http://images.cfyc.com.vn/upload/Lifestyle%20website%20article/Fitness%20&%20Health/suc-manh-dieu-ki-tu-plank/Plank%20(1).jpg"
+         },
+         {
+            "exercise": [
+                {
+                "name": "Exercise with ball 1",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_ball_1",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                },
+                {
+                "name": "Exercise with ball 2",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_ball_2",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                },
+                {
+                "name": "Exercise with ball 3",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_ball_3",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                }
+            ],
+                "name":"Exercise with ball",
+                "image":"https://www.dynaprodirect.com/wp-content/uploads/2016/05/stability-_ball-back-extension.jpg"
+         },
+         {
+            "exercise": [
+                {
+                "name": "Exercise with bar 1",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_bar_1",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                },
+                {
+                "name": "Exercise with bar 2",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_bar_2",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                },
+                {
+                "name": "Exercise with bar 3",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "play_with_bar_3",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                }
+            ],
+                "name":"Exercise with bar",
+                "image":"http://i.ebayimg.com/00/s/ODAwWDgwMA==/z/Q4wAAOSwPcVVuzde/$_35.JPG?set_id=880000500F"
+         },
+         {
+            "exercise": [
+                {
+                "name": "Practice eyes",
+                "id" : "8",
+                "color" : "#000000",
+                "image_gif" : "exercise_eye_1",
+                "image" : "http://healingheartenergy.com/wp-content/uploads/2014/02/deep-breath-300x300.jpg",
+                "youtube_video" : "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+                }
+            ],
+                "name":"Practice eyes",
+                "image":"http://www.clemsoneye.com/Portals/0/shelley-ahmed-300-300.png"
+         }
+    ]
+}
