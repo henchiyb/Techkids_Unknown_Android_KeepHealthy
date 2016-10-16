@@ -56,7 +56,7 @@ public class FragmentDoingPhysicalExercise extends Fragment implements View.OnCl
     GifImageView imageViewPhysic;
     @BindView(R.id.bt_youtube_physical)ImageButton imageButton;
 
-    @OnClick
+    @OnClick(R.id.bt_youtube_physical)
     public void onClickPhysical(){
         Intent youtubeIntent = new Intent(Intent.ACTION_VIEW);
         youtubeIntent.setData(Uri.parse(exercisesPhysicalRealmObject

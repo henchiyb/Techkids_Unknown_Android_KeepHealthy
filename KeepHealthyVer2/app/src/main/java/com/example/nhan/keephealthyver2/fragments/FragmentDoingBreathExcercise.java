@@ -51,7 +51,7 @@ public class FragmentDoingBreathExcercise extends Fragment {
     @BindView(R.id.breath_image_view_do_exercise)CircleImageView imageViewBreath;
     @BindView(R.id.bt_youtube_breath)ImageButton imageButton;
 
-    @OnClick
+    @OnClick(R.id.bt_youtube_breath)
     public void onClickPhysical(){
         Intent youtubeIntent = new Intent(Intent.ACTION_VIEW);
         youtubeIntent.setData(Uri.parse(breathObject.getLinkYoutube()));

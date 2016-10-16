@@ -50,6 +50,7 @@ public class Utils {
             AssetFileDescriptor descriptor = context.getAssets().openFd("sounds/" + fileName);
             mediaPlayer.setDataSource(descriptor.getFileDescriptor(), descriptor.getStartOffset(), descriptor.getLength());
             mediaPlayer.prepare();
+            mediaPlayer.setLooping(true);
         } catch (IOException e) {
             e.printStackTrace();
         }
