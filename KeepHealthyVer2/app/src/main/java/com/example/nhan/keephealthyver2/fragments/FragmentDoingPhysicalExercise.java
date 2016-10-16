@@ -97,8 +97,6 @@ public class FragmentDoingPhysicalExercise extends Fragment implements View.OnCl
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_do_physical_exercise, container, false);
-        getActivity().getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        getActivity().getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FORCE_NOT_FULLSCREEN);
         ButterKnife.bind(this, view);
         EventBus.getDefault().register(this);
         textToSpeech = Utils.textToSpeech(getActivity().getApplicationContext());
