@@ -198,6 +198,7 @@ public class FragmentDoingBreathExcercise extends Fragment {
             timer.start();
         } else if ( event.equals("CANCEL")){
             Log.d("test", "CANCEL");
+            imageViewBreath.clearAnimation();
             countRound = 0;
             timer.cancel();
             textToSpeech.stop();
@@ -208,5 +209,8 @@ public class FragmentDoingBreathExcercise extends Fragment {
     public void onPause() {
         super.onPause();
         mediaPlayer.release();
+        if (timer != null)
+            timer.cancel();
+        textToSpeech.stop();
     }
 }

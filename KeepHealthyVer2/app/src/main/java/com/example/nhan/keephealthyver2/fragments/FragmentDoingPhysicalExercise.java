@@ -250,5 +250,10 @@ public class FragmentDoingPhysicalExercise extends Fragment implements View.OnCl
     public void onPause() {
         super.onPause();
         mediaPlayer.release();
+        if (cdtRest != null)
+            cdtRest.cancel();
+        if (cdtDoExercise != null)
+            cdtDoExercise.cancel();
+        textToSpeech.stop();
     }
 }
